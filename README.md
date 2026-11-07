@@ -1,3 +1,5 @@
+[English](README.en.md) · **Italiano**
+
 # Motta Serramenti — sito web
 
 Sito di **Motta Serramenti** con pagine dedicate alle linee di prodotto **Invisia** e **Nexa**. Video a tutto schermo, animazioni legate allo scroll e microinterazioni curate.
