@@ -1,0 +1,10 @@
+{
+  "@context": "http://www.w3.org/ns/tdmrep",
+  "tdmrep": [
+    {
+      "location": "/",
+      "tdm-reservation": 1,
+      "tdm-policy": "https://mottaserramenti.it/termini"
+    }
+  ]
+}
